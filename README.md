@@ -16,6 +16,8 @@ A repository tartalma:
 
 - *eredmenyek.xlsx*: futtatási eredmények táblázatos formában
 
+- *VassMate_Szakdolgozat_MSc* fájlok: beadott diplomamunka *docx* és *pdf* formátumban
+
 <br>
 
 A mappákon belül találhatóak *code*, *result* és *runtime* mappák, itt megtekinthető minden felhasznált Python szkript, futtatási eredmény, futásidő, stb.
