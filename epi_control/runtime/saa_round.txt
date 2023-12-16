@@ -1,0 +1,649 @@
+Runtimes (s) - instances: 100
+1 - model creation: 1.950483792
+1 - iteration 1 - selected 58: 7.393081458000001
+1 - iteration 2 - selected 50: 0.5587452919999993
+1 - iteration 3 - selected 50: 0.4627138750000004
+1 - iteration 4 - selected 50: 0.4730049590000007
+1 - iteration 5 - selected 50: 0.46370033399999855
+11 - model creation: 2.007699833
+11 - iteration 1 - selected 48: 6.509735125000001
+11 - iteration 2 - selected 48: 0.45280483400000193
+11 - iteration 3 - selected 48: 0.4485547089999997
+11 - iteration 4 - selected 48: 0.45806370800000096
+11 - iteration 5 - selected 48: 0.4590481670000024
+21 - model creation: 2.011134042000002
+21 - iteration 1 - selected 67: 6.518766917000001
+21 - iteration 2 - selected 52: 0.5762849170000024
+21 - iteration 3 - selected 51: 0.5287435420000008
+21 - iteration 4 - selected 50: 0.5193002080000007
+21 - iteration 5 - selected 50: 0.4588777080000028
+31 - model creation: 1.9571701249999975
+31 - iteration 1 - selected 35: 6.466932165999999
+31 - iteration 2 - selected 35: 0.45383383299999736
+31 - iteration 3 - selected 35: 0.44676820899999825
+31 - iteration 4 - selected 35: 0.449927332999998
+31 - iteration 5 - selected 35: 0.4477281249999976
+41 - model creation: 1.990778958
+41 - iteration 1 - selected 48: 6.103663500000003
+41 - iteration 2 - selected 48: 0.4529853330000009
+41 - iteration 3 - selected 48: 0.4532710410000007
+41 - iteration 4 - selected 48: 0.45000737499999843
+41 - iteration 5 - selected 48: 0.46827583299999986
+51 - model creation: 2.050916083000004
+51 - iteration 1 - selected 36: 6.267690209000001
+51 - iteration 2 - selected 36: 0.45071304199999673
+51 - iteration 3 - selected 36: 0.4483477499999964
+51 - iteration 4 - selected 36: 0.4500286250000016
+51 - iteration 5 - selected 36: 0.4523017920000001
+61 - model creation: 2.0119832090000074
+61 - iteration 1 - selected 51: 6.293662499999996
+61 - iteration 2 - selected 50: 0.5158675830000021
+61 - iteration 3 - selected 50: 0.44815391600000964
+61 - iteration 4 - selected 50: 0.45272183299999824
+61 - iteration 5 - selected 50: 0.47698170900000036
+71 - model creation: 2.0159938749999924
+71 - iteration 1 - selected 48: 5.983227416999995
+71 - iteration 2 - selected 48: 0.4540359169999988
+71 - iteration 3 - selected 48: 0.4455881669999968
+71 - iteration 4 - selected 48: 0.45970112499999516
+71 - iteration 5 - selected 48: 0.45719833400001164
+81 - model creation: 2.024529834000006
+81 - iteration 1 - selected 54: 6.526216958999996
+81 - iteration 2 - selected 50: 0.5171429999999901
+81 - iteration 3 - selected 50: 0.45434966700000246
+81 - iteration 4 - selected 50: 0.4641574999999989
+81 - iteration 5 - selected 50: 0.4591111670000032
+91 - model creation: 2.047622875000002
+91 - iteration 1 - selected 44: 6.7023245419999995
+91 - iteration 2 - selected 44: 0.4471445829999965
+91 - iteration 3 - selected 44: 0.45638625000000843
+91 - iteration 4 - selected 44: 0.4534875829999976
+91 - iteration 5 - selected 44: 0.4601425409999962
+101 - model creation: 1.9852106249999935
+101 - iteration 1 - selected 57: 6.175791874999987
+101 - iteration 2 - selected 49: 0.5278680000000122
+101 - iteration 3 - selected 49: 0.46380808400000717
+101 - iteration 4 - selected 49: 0.45693887500000585
+101 - iteration 5 - selected 49: 0.49974808300000007
+111 - model creation: 2.003929209000006
+111 - iteration 1 - selected 60: 6.349937291999993
+111 - iteration 2 - selected 50: 0.518663083000007
+111 - iteration 3 - selected 50: 0.47973454200000276
+111 - iteration 4 - selected 50: 0.4593705000000057
+111 - iteration 5 - selected 50: 0.47101437500001
+121 - model creation: 2.01204495799999
+121 - iteration 1 - selected 43: 5.899541749999983
+121 - iteration 2 - selected 43: 0.4498899590000178
+121 - iteration 3 - selected 43: 0.4511517500000082
+121 - iteration 4 - selected 43: 0.4547045829999945
+121 - iteration 5 - selected 43: 0.46642504199999735
+131 - model creation: 2.0429885420000176
+131 - iteration 1 - selected 53: 6.384004417
+131 - iteration 2 - selected 50: 0.5076151250000009
+131 - iteration 3 - selected 50: 0.4495863330000134
+131 - iteration 4 - selected 50: 0.4686196250000023
+131 - iteration 5 - selected 50: 0.4636002499999847
+141 - model creation: 2.018393666999998
+141 - iteration 1 - selected 46: 6.520379958999996
+141 - iteration 2 - selected 46: 0.4531172089999984
+141 - iteration 3 - selected 46: 0.4599596669999926
+141 - iteration 4 - selected 46: 0.46434770799999114
+141 - iteration 5 - selected 46: 0.46806508299999905
+151 - model creation: 1.9995349170000054
+151 - iteration 1 - selected 47: 6.490018625000005
+151 - iteration 2 - selected 47: 0.4815144590000102
+151 - iteration 3 - selected 47: 0.4474433329999954
+151 - iteration 4 - selected 47: 0.47115137500000515
+151 - iteration 5 - selected 47: 0.4594818749999945
+161 - model creation: 2.0634302079999998
+161 - iteration 1 - selected 49: 6.340043291000001
+161 - iteration 2 - selected 49: 0.45492116699998064
+161 - iteration 3 - selected 49: 0.45089679100001945
+161 - iteration 4 - selected 49: 0.4607754170000078
+161 - iteration 5 - selected 49: 0.49914033400000335
+171 - model creation: 2.026638666999986
+171 - iteration 1 - selected 51: 6.659749042000016
+171 - iteration 2 - selected 50: 0.500974417000009
+171 - iteration 3 - selected 50: 0.4483683340000084
+171 - iteration 4 - selected 50: 0.4605793750000089
+171 - iteration 5 - selected 50: 0.4564766249999934
+181 - model creation: 2.0397998329999893
+181 - iteration 1 - selected 46: 6.405714083999982
+181 - iteration 2 - selected 46: 0.45056995799998845
+181 - iteration 3 - selected 46: 0.454409040999991
+181 - iteration 4 - selected 46: 0.4548719169999913
+181 - iteration 5 - selected 46: 0.45652495900000645
+191 - model creation: 2.0104934999999955
+191 - iteration 1 - selected 51: 6.626252957999981
+191 - iteration 2 - selected 50: 0.5076497910000057
+191 - iteration 3 - selected 50: 0.45358991699998796
+191 - iteration 4 - selected 50: 0.4574197500000139
+191 - iteration 5 - selected 50: 0.45959245899999246
+201 - model creation: 2.0612960420000093
+201 - iteration 1 - selected 51: 6.316785750000008
+201 - iteration 2 - selected 50: 0.5249903750000158
+201 - iteration 3 - selected 50: 0.45647304199999894
+201 - iteration 4 - selected 50: 0.4898958329999914
+201 - iteration 5 - selected 50: 0.4666694169999914
+211 - model creation: 2.040852624999985
+211 - iteration 1 - selected 54: 6.859343166000002
+211 - iteration 2 - selected 50: 0.5224974589999931
+211 - iteration 3 - selected 50: 0.45894520900000657
+211 - iteration 4 - selected 50: 0.4577199999999948
+211 - iteration 5 - selected 50: 0.4576468329999841
+221 - model creation: 2.0586908340000036
+221 - iteration 1 - selected 42: 6.645507582999983
+221 - iteration 2 - selected 42: 0.49498050000002536
+221 - iteration 3 - selected 42: 0.4774042500000064
+221 - iteration 4 - selected 42: 0.5551061249999805
+221 - iteration 5 - selected 42: 0.49664450000000215
+231 - model creation: 2.1018643750000194
+231 - iteration 1 - selected 32: 6.9533160420000115
+231 - iteration 2 - selected 32: 0.445784792000012
+231 - iteration 3 - selected 32: 0.4516104169999835
+231 - iteration 4 - selected 32: 0.4684987079999985
+231 - iteration 5 - selected 32: 0.4562398749999943
+241 - model creation: 2.0455775829999823
+241 - iteration 1 - selected 50: 6.712275250000005
+241 - iteration 2 - selected 50: 0.47188333299999385
+241 - iteration 3 - selected 50: 0.45562941700001147
+241 - iteration 4 - selected 50: 0.46083341700000346
+241 - iteration 5 - selected 50: 0.4648675830000002
+251 - model creation: 2.029496916000028
+251 - iteration 1 - selected 56: 6.600482124999985
+251 - iteration 2 - selected 52: 0.5178201660000354
+251 - iteration 3 - selected 50: 0.5066518329999781
+251 - iteration 4 - selected 50: 0.45615945899999133
+251 - iteration 5 - selected 50: 0.45714595900000177
+261 - model creation: 2.042357749999951
+261 - iteration 1 - selected 62: 7.565362333999985
+261 - iteration 2 - selected 51: 0.5334537909999995
+261 - iteration 3 - selected 51: 0.505724333000046
+261 - iteration 4 - selected 50: 0.5169129170000133
+261 - iteration 5 - selected 50: 0.46039295899998933
+271 - model creation: 2.0281462909999846
+271 - iteration 1 - selected 49: 6.435077207999996
+271 - iteration 2 - selected 49: 0.45518025000001217
+271 - iteration 3 - selected 49: 0.4636665830000197
+271 - iteration 4 - selected 49: 0.4888415830000099
+271 - iteration 5 - selected 49: 0.4986631670000179
+281 - model creation: 2.009906791999981
+281 - iteration 1 - selected 54: 5.841143917000011
+281 - iteration 2 - selected 50: 0.5231208330000072
+281 - iteration 3 - selected 50: 0.4616122920000407
+281 - iteration 4 - selected 50: 0.4722745830000008
+281 - iteration 5 - selected 50: 0.4594307500000241
+291 - model creation: 2.050984416999995
+291 - iteration 1 - selected 43: 6.243313790999991
+291 - iteration 2 - selected 43: 0.4572428750000199
+291 - iteration 3 - selected 43: 0.455581417000019
+291 - iteration 4 - selected 43: 0.4567402089999746
+291 - iteration 5 - selected 43: 0.4517122920000247
+301 - model creation: 2.024822874999984
+301 - iteration 1 - selected 52: 7.003358250000019
+301 - iteration 2 - selected 50: 0.5125835830000369
+301 - iteration 3 - selected 50: 0.45495058299997027
+301 - iteration 4 - selected 50: 0.45804520799998727
+301 - iteration 5 - selected 50: 0.4618471250000198
+311 - model creation: 2.01035324999998
+311 - iteration 1 - selected 46: 6.097314083000015
+311 - iteration 2 - selected 46: 0.46059466699995255
+311 - iteration 3 - selected 46: 0.5018002919999844
+311 - iteration 4 - selected 46: 0.4700915419999774
+311 - iteration 5 - selected 46: 0.46277250000002823
+321 - model creation: 2.026822208999988
+321 - iteration 1 - selected 49: 6.967727834000016
+321 - iteration 2 - selected 49: 0.5097873330000198
+321 - iteration 3 - selected 49: 0.4822422080000024
+321 - iteration 4 - selected 49: 0.46307600000000093
+321 - iteration 5 - selected 49: 0.47652475000001004
+331 - model creation: 2.094754749999993
+331 - iteration 1 - selected 48: 6.315029832999983
+331 - iteration 2 - selected 48: 0.46182112499997174
+331 - iteration 3 - selected 48: 0.46638287500002207
+331 - iteration 4 - selected 48: 0.46282970900000464
+331 - iteration 5 - selected 48: 0.45241141700000753
+341 - model creation: 2.0506661670000312
+341 - iteration 1 - selected 53: 6.2717616250000106
+341 - iteration 2 - selected 50: 0.5162735420000217
+341 - iteration 3 - selected 50: 0.4458366249999699
+341 - iteration 4 - selected 50: 0.45959762499995804
+341 - iteration 5 - selected 50: 0.45916350000004513
+351 - model creation: 2.029331582999987
+351 - iteration 1 - selected 56: 6.358507083999996
+351 - iteration 2 - selected 50: 0.5363569579999989
+351 - iteration 3 - selected 50: 0.45583612499996207
+351 - iteration 4 - selected 50: 0.4631359580000094
+351 - iteration 5 - selected 50: 0.46827012500000365
+361 - model creation: 2.0589247909999813
+361 - iteration 1 - selected 34: 6.30311875000001
+361 - iteration 2 - selected 34: 0.4533902919999946
+361 - iteration 3 - selected 34: 0.46035845800003017
+361 - iteration 4 - selected 34: 0.4588869589999831
+361 - iteration 5 - selected 34: 0.4791207079999822
+371 - model creation: 2.0870953329999793
+371 - iteration 1 - selected 41: 6.335860209000032
+371 - iteration 2 - selected 41: 0.4590959170000133
+371 - iteration 3 - selected 41: 0.46619495799996
+371 - iteration 4 - selected 41: 0.4550411669999903
+371 - iteration 5 - selected 41: 0.4518818750000264
+381 - model creation: 2.023129083000015
+381 - iteration 1 - selected 55: 6.7201985419999914
+381 - iteration 2 - selected 50: 0.5233333330000391
+381 - iteration 3 - selected 50: 0.44975233400003845
+381 - iteration 4 - selected 50: 0.45874591699998746
+381 - iteration 5 - selected 50: 0.45337854199999583
+391 - model creation: 2.0898290830000406
+391 - iteration 1 - selected 57: 6.6578486249999855
+391 - iteration 2 - selected 50: 0.5165874169999825
+391 - iteration 3 - selected 50: 0.46192983299999923
+391 - iteration 4 - selected 50: 0.4677007079999953
+391 - iteration 5 - selected 50: 0.47920720799999117
+401 - model creation: 2.041729250000003
+401 - iteration 1 - selected 58: 6.248675332999994
+401 - iteration 2 - selected 50: 0.5301302080000028
+401 - iteration 3 - selected 50: 0.4616683330000342
+401 - iteration 4 - selected 50: 0.4668909999999755
+401 - iteration 5 - selected 50: 0.46276854199999207
+411 - model creation: 2.07065054200001
+411 - iteration 1 - selected 52: 6.731336750000025
+411 - iteration 2 - selected 50: 0.5034575419999783
+411 - iteration 3 - selected 50: 0.4546077910000008
+411 - iteration 4 - selected 50: 0.4600658339999768
+411 - iteration 5 - selected 50: 0.46692070800003194
+421 - model creation: 2.0376752090000423
+421 - iteration 1 - selected 45: 6.383921250000014
+421 - iteration 2 - selected 45: 0.46279325000000426
+421 - iteration 3 - selected 45: 0.4587184580000212
+421 - iteration 4 - selected 45: 0.4614714169999843
+421 - iteration 5 - selected 45: 0.4659659580000266
+431 - model creation: 2.047877000000028
+431 - iteration 1 - selected 54: 6.594180375000008
+431 - iteration 2 - selected 49: 0.5200525419999735
+431 - iteration 3 - selected 49: 0.4503445420000389
+431 - iteration 4 - selected 49: 0.4640671249999855
+431 - iteration 5 - selected 49: 0.5194730829999799
+441 - model creation: 2.019841165999992
+441 - iteration 1 - selected 52: 6.381627250000008
+441 - iteration 2 - selected 50: 0.5082337919999986
+441 - iteration 3 - selected 50: 0.44652991700002076
+441 - iteration 4 - selected 50: 0.45777091700000483
+441 - iteration 5 - selected 50: 0.4676689159999796
+451 - model creation: 2.0632240420000016
+451 - iteration 1 - selected 44: 6.282452540999998
+451 - iteration 2 - selected 44: 0.45677137500001663
+451 - iteration 3 - selected 44: 0.4618671670000367
+451 - iteration 4 - selected 44: 0.45726608400002533
+451 - iteration 5 - selected 44: 0.45411204100003033
+461 - model creation: 2.057343457999991
+461 - iteration 1 - selected 38: 6.229341541000053
+461 - iteration 2 - selected 38: 0.44857958300002565
+461 - iteration 3 - selected 38: 0.45542620800000577
+461 - iteration 4 - selected 38: 0.46751137500001505
+461 - iteration 5 - selected 38: 0.45292816699998184
+471 - model creation: 2.0442615830000364
+471 - iteration 1 - selected 50: 6.705525375000036
+471 - iteration 2 - selected 50: 0.4655642079999893
+471 - iteration 3 - selected 50: 0.4590273340000408
+471 - iteration 4 - selected 50: 0.4672642500000279
+471 - iteration 5 - selected 50: 0.46885058300000537
+481 - model creation: 2.059943999999973
+481 - iteration 1 - selected 46: 7.223369792000028
+481 - iteration 2 - selected 46: 0.4575888329999884
+481 - iteration 3 - selected 46: 0.45793470799998204
+481 - iteration 4 - selected 46: 0.4541233329999841
+481 - iteration 5 - selected 46: 0.46284854200001746
+491 - model creation: 2.080911791999995
+491 - iteration 1 - selected 38: 6.5081579580000835
+491 - iteration 2 - selected 38: 0.4449368330000425
+491 - iteration 3 - selected 38: 0.4558353339999712
+491 - iteration 4 - selected 38: 0.45796808400007194
+491 - iteration 5 - selected 38: 0.4495487500000763
+501 - model creation: 2.100682583999969
+501 - iteration 1 - selected 63: 6.128799334000064
+501 - iteration 2 - selected 51: 0.5306082089999791
+501 - iteration 3 - selected 50: 0.4975691250000409
+501 - iteration 4 - selected 50: 0.4604597500000409
+501 - iteration 5 - selected 50: 0.46281595799996467
+511 - model creation: 2.065754125000012
+511 - iteration 1 - selected 54: 6.35838262499999
+511 - iteration 2 - selected 50: 0.5050837080000292
+511 - iteration 3 - selected 50: 0.45123195799999394
+511 - iteration 4 - selected 50: 0.4697974169999952
+511 - iteration 5 - selected 50: 0.45754762500007473
+521 - model creation: 2.0203629579999642
+521 - iteration 1 - selected 46: 6.8695821659999865
+521 - iteration 2 - selected 46: 0.46536537500003305
+521 - iteration 3 - selected 46: 0.4510490000000118
+521 - iteration 4 - selected 46: 0.4634349159999829
+521 - iteration 5 - selected 46: 0.4653008340000042
+531 - model creation: 2.0689698749999934
+531 - iteration 1 - selected 52: 6.078623749999906
+531 - iteration 2 - selected 50: 0.5098084169999311
+531 - iteration 3 - selected 50: 0.4550592919999872
+531 - iteration 4 - selected 50: 0.4655284579999943
+531 - iteration 5 - selected 50: 0.45251775000008365
+541 - model creation: 2.1006380840000247
+541 - iteration 1 - selected 54: 6.66818037500002
+541 - iteration 2 - selected 49: 0.5128927499999918
+541 - iteration 3 - selected 49: 0.4490582919999042
+541 - iteration 4 - selected 49: 0.45433649999995396
+541 - iteration 5 - selected 49: 0.45419824999999037
+551 - model creation: 2.0205029169999307
+551 - iteration 1 - selected 42: 6.516960124999969
+551 - iteration 2 - selected 42: 0.46048337499996705
+551 - iteration 3 - selected 42: 0.45667679200005296
+551 - iteration 4 - selected 42: 0.4698308750000706
+551 - iteration 5 - selected 42: 0.46203750000006494
+561 - model creation: 2.0916452920000665
+561 - iteration 1 - selected 46: 6.662463500000058
+561 - iteration 2 - selected 46: 0.45944429199994374
+561 - iteration 3 - selected 46: 0.45043758299993897
+561 - iteration 4 - selected 46: 0.45284604200003287
+561 - iteration 5 - selected 46: 0.4646272909999425
+571 - model creation: 2.030665541000076
+571 - iteration 1 - selected 46: 6.482168125000044
+571 - iteration 2 - selected 46: 0.4634486249999554
+571 - iteration 3 - selected 46: 0.450830332999999
+571 - iteration 4 - selected 46: 0.47792420799999036
+571 - iteration 5 - selected 46: 0.4764133330000959
+581 - model creation: 2.086152249999941
+581 - iteration 1 - selected 50: 6.469734082999935
+581 - iteration 2 - selected 50: 0.45748312500006705
+581 - iteration 3 - selected 50: 0.45568516600008024
+581 - iteration 4 - selected 50: 0.4607792920000975
+581 - iteration 5 - selected 50: 0.46056962499994825
+591 - model creation: 2.080083542000011
+591 - iteration 1 - selected 50: 6.4236565830000245
+591 - iteration 2 - selected 50: 0.4565036249999821
+591 - iteration 3 - selected 50: 0.4620391250000466
+591 - iteration 4 - selected 50: 0.4549056250000376
+591 - iteration 5 - selected 50: 0.46128779200000736
+601 - model creation: 2.0314529160000347
+601 - iteration 1 - selected 52: 6.1944157919999725
+601 - iteration 2 - selected 50: 0.5043867499999806
+601 - iteration 3 - selected 50: 0.44373395799993887
+601 - iteration 4 - selected 50: 0.4618297499999926
+601 - iteration 5 - selected 50: 0.4620901660000527
+611 - model creation: 2.0721253750000415
+611 - iteration 1 - selected 51: 6.12890091700001
+611 - iteration 2 - selected 50: 0.5154600830001073
+611 - iteration 3 - selected 50: 0.4581711250000353
+611 - iteration 4 - selected 50: 0.4601010830000405
+611 - iteration 5 - selected 50: 0.46773766700005126
+621 - model creation: 2.0497563339999942
+621 - iteration 1 - selected 54: 6.076139083000044
+621 - iteration 2 - selected 50: 0.5222788749999836
+621 - iteration 3 - selected 50: 0.4588984590000109
+621 - iteration 4 - selected 50: 0.4633127910000212
+621 - iteration 5 - selected 50: 0.4670234169999503
+631 - model creation: 2.06077833300003
+631 - iteration 1 - selected 51: 6.1623223340000095
+631 - iteration 2 - selected 50: 0.5203424160000623
+631 - iteration 3 - selected 50: 0.4553270830000429
+631 - iteration 4 - selected 50: 0.46589129200003754
+631 - iteration 5 - selected 50: 0.4603220000000192
+641 - model creation: 2.049361875000045
+641 - iteration 1 - selected 46: 6.1734522080000716
+641 - iteration 2 - selected 46: 0.45092012500003875
+641 - iteration 3 - selected 46: 0.45128045900003144
+641 - iteration 4 - selected 46: 0.4592737909999869
+641 - iteration 5 - selected 46: 0.4643512909999572
+651 - model creation: 2.0631972080000196
+651 - iteration 1 - selected 50: 6.134892374999936
+651 - iteration 2 - selected 50: 0.45340012500003013
+651 - iteration 3 - selected 50: 0.4499597919999587
+651 - iteration 4 - selected 50: 0.46437395899999956
+651 - iteration 5 - selected 50: 0.45235908299991934
+661 - model creation: 2.055968708000023
+661 - iteration 1 - selected 51: 6.030509749999965
+661 - iteration 2 - selected 50: 0.5630841249999321
+661 - iteration 3 - selected 50: 0.4642391670000734
+661 - iteration 4 - selected 50: 0.4657787500000268
+661 - iteration 5 - selected 50: 0.47814595800002735
+671 - model creation: 2.0925159170000143
+671 - iteration 1 - selected 48: 6.332788166
+671 - iteration 2 - selected 48: 0.45838991599998735
+671 - iteration 3 - selected 48: 0.44719975000009526
+671 - iteration 4 - selected 48: 0.45535641699996177
+671 - iteration 5 - selected 48: 0.4638364590000492
+681 - model creation: 2.0648341249999476
+681 - iteration 1 - selected 58: 6.490585874999965
+681 - iteration 2 - selected 50: 0.516095916999916
+681 - iteration 3 - selected 50: 0.4583243750000747
+681 - iteration 4 - selected 50: 0.4596604999999272
+681 - iteration 5 - selected 50: 0.4654227499999024
+691 - model creation: 2.1137037080000027
+691 - iteration 1 - selected 57: 6.3615395420000596
+691 - iteration 2 - selected 51: 0.5120250829999122
+691 - iteration 3 - selected 49: 0.4947559170000204
+691 - iteration 4 - selected 49: 0.46725445800007037
+691 - iteration 5 - selected 49: 0.47107199999993554
+701 - model creation: 2.0522141249999777
+701 - iteration 1 - selected 50: 6.243537584000023
+701 - iteration 2 - selected 50: 0.4514281670000173
+701 - iteration 3 - selected 50: 0.4563925840000138
+701 - iteration 4 - selected 50: 0.4557878340000343
+701 - iteration 5 - selected 50: 0.47202404099994055
+711 - model creation: 2.1141018749999603
+711 - iteration 1 - selected 44: 6.274183249999965
+711 - iteration 2 - selected 44: 0.4511942080000608
+711 - iteration 3 - selected 44: 0.4491927920000762
+711 - iteration 4 - selected 44: 0.46524041599991506
+711 - iteration 5 - selected 44: 0.4589294579999432
+721 - model creation: 2.0070496659999435
+721 - iteration 1 - selected 42: 6.13799383300011
+721 - iteration 2 - selected 42: 0.4509819999999536
+721 - iteration 3 - selected 42: 0.4488035829999717
+721 - iteration 4 - selected 42: 0.45187345800002277
+721 - iteration 5 - selected 42: 0.45177691699996103
+731 - model creation: 2.0186378339999465
+731 - iteration 1 - selected 56: 5.821836707999978
+731 - iteration 2 - selected 50: 0.5172940830000243
+731 - iteration 3 - selected 50: 0.45259391699994467
+731 - iteration 4 - selected 50: 0.4564946669999017
+731 - iteration 5 - selected 50: 0.4673212919999514
+741 - model creation: 2.087739584000019
+741 - iteration 1 - selected 47: 6.389020749999986
+741 - iteration 2 - selected 47: 0.46331912499999817
+741 - iteration 3 - selected 47: 0.4568512499999997
+741 - iteration 4 - selected 47: 0.47588345899998785
+741 - iteration 5 - selected 47: 0.473934207999946
+751 - model creation: 2.0656343750000588
+751 - iteration 1 - selected 56: 6.4611161249999896
+751 - iteration 2 - selected 50: 0.5004771669999855
+751 - iteration 3 - selected 50: 0.4548386249999794
+751 - iteration 4 - selected 50: 0.46032558299998527
+751 - iteration 5 - selected 50: 0.4632464169999366
+761 - model creation: 2.1338784580000265
+761 - iteration 1 - selected 37: 6.438515790999986
+761 - iteration 2 - selected 37: 0.4594315839999581
+761 - iteration 3 - selected 37: 0.4640770409999959
+761 - iteration 4 - selected 37: 0.44861729199999445
+761 - iteration 5 - selected 37: 0.46738891699999385
+771 - model creation: 2.0404885419999346
+771 - iteration 1 - selected 45: 6.510411916999942
+771 - iteration 2 - selected 45: 0.4686772910000627
+771 - iteration 3 - selected 45: 0.45871425000007093
+771 - iteration 4 - selected 45: 0.47161141599997336
+771 - iteration 5 - selected 45: 0.45558666700003414
+781 - model creation: 2.08912229200007
+781 - iteration 1 - selected 39: 6.672570959000041
+781 - iteration 2 - selected 39: 0.45494816699999774
+781 - iteration 3 - selected 39: 0.45674308399998154
+781 - iteration 4 - selected 39: 0.4629563750000898
+781 - iteration 5 - selected 39: 0.5397798330000114
+791 - model creation: 2.0525124589998995
+791 - iteration 1 - selected 48: 6.761291958000015
+791 - iteration 2 - selected 48: 0.46673149999992347
+791 - iteration 3 - selected 48: 0.4661210830000755
+791 - iteration 4 - selected 48: 0.45623295799998687
+791 - iteration 5 - selected 48: 0.46794037500001195
+801 - model creation: 2.078331333000051
+801 - iteration 1 - selected 45: 6.242516540999986
+801 - iteration 2 - selected 45: 0.44855266699994445
+801 - iteration 3 - selected 45: 0.45361929199998485
+801 - iteration 4 - selected 45: 0.4568894999999884
+801 - iteration 5 - selected 45: 0.46650737499999195
+811 - model creation: 2.098356875000036
+811 - iteration 1 - selected 56: 6.389291375000084
+811 - iteration 2 - selected 50: 0.5238341659999151
+811 - iteration 3 - selected 50: 0.45824962500000765
+811 - iteration 4 - selected 50: 0.46559991700007686
+811 - iteration 5 - selected 50: 0.4700215829999479
+821 - model creation: 2.0840560000000323
+821 - iteration 1 - selected 47: 6.862285583000016
+821 - iteration 2 - selected 47: 0.4559470419999343
+821 - iteration 3 - selected 47: 0.45091329199999564
+821 - iteration 4 - selected 47: 0.4655832079999982
+821 - iteration 5 - selected 47: 0.4533206250000603
+831 - model creation: 2.0401553330000297
+831 - iteration 1 - selected 50: 6.234919207999951
+831 - iteration 2 - selected 50: 0.4529139999999643
+831 - iteration 3 - selected 50: 0.4534867499999109
+831 - iteration 4 - selected 50: 0.45264945899998565
+831 - iteration 5 - selected 50: 0.46144895899999483
+841 - model creation: 2.0451050420000456
+841 - iteration 1 - selected 53: 6.141557583999997
+841 - iteration 2 - selected 50: 0.5097641670000712
+841 - iteration 3 - selected 50: 0.46786595800006126
+841 - iteration 4 - selected 50: 0.4596262500000421
+841 - iteration 5 - selected 50: 0.4631972909999149
+851 - model creation: 2.1393754580000177
+851 - iteration 1 - selected 46: 6.431940541000017
+851 - iteration 2 - selected 46: 0.4739339170000676
+851 - iteration 3 - selected 46: 0.4659816249999267
+851 - iteration 4 - selected 46: 0.4750129999999899
+851 - iteration 5 - selected 46: 0.482561374999932
+861 - model creation: 2.0396057499999642
+861 - iteration 1 - selected 40: 6.11146595799994
+861 - iteration 2 - selected 40: 0.4583495410000751
+861 - iteration 3 - selected 40: 0.46475454200003696
+861 - iteration 4 - selected 40: 0.47396008299995174
+861 - iteration 5 - selected 40: 0.46740166700010377
+871 - model creation: 2.090573250000034
+871 - iteration 1 - selected 46: 6.747969125000054
+871 - iteration 2 - selected 46: 0.4562473339999542
+871 - iteration 3 - selected 46: 0.45648158300002706
+871 - iteration 4 - selected 46: 0.4584378749999587
+871 - iteration 5 - selected 46: 0.47474804199998744
+881 - model creation: 2.084364124999979
+881 - iteration 1 - selected 52: 6.524147915999947
+881 - iteration 2 - selected 50: 0.5196708749999743
+881 - iteration 3 - selected 50: 0.45392629200000556
+881 - iteration 4 - selected 50: 0.4570201660000066
+881 - iteration 5 - selected 50: 0.4626154579999593
+891 - model creation: 2.087741499999993
+891 - iteration 1 - selected 43: 6.331921542000032
+891 - iteration 2 - selected 43: 0.4547915829999738
+891 - iteration 3 - selected 43: 0.4522633340000084
+891 - iteration 4 - selected 43: 0.4585125830000152
+891 - iteration 5 - selected 43: 0.4642465000000584
+901 - model creation: 2.1033207909999874
+901 - iteration 1 - selected 56: 6.331545957999992
+901 - iteration 2 - selected 50: 0.5171801669999923
+901 - iteration 3 - selected 50: 0.4518235000000459
+901 - iteration 4 - selected 50: 0.463042499999915
+901 - iteration 5 - selected 50: 0.47345129100006034
+911 - model creation: 2.102747333000025
+911 - iteration 1 - selected 57: 6.636845666999989
+911 - iteration 2 - selected 51: 0.5198305830000436
+911 - iteration 3 - selected 50: 0.5031098749999501
+911 - iteration 4 - selected 50: 0.4583351659999835
+911 - iteration 5 - selected 50: 0.4719543329999851
+921 - model creation: 2.080903041000056
+921 - iteration 1 - selected 52: 6.960388167000019
+921 - iteration 2 - selected 50: 0.5173802079999632
+921 - iteration 3 - selected 50: 0.464173833000018
+921 - iteration 4 - selected 50: 0.4661508749999257
+921 - iteration 5 - selected 50: 0.4660513339999852
+931 - model creation: 2.0505229999999983
+931 - iteration 1 - selected 44: 6.575628416999962
+931 - iteration 2 - selected 44: 0.4473967920000632
+931 - iteration 3 - selected 44: 0.4566290419999177
+931 - iteration 4 - selected 44: 0.45167508299994097
+931 - iteration 5 - selected 44: 0.46816562499998327
+941 - model creation: 2.1241507910000337
+941 - iteration 1 - selected 45: 6.205308500000001
+941 - iteration 2 - selected 45: 0.44441616600011
+941 - iteration 3 - selected 45: 0.45317912500001967
+941 - iteration 4 - selected 45: 0.454338458000052
+941 - iteration 5 - selected 45: 0.45770758300000125
+951 - model creation: 2.0356321660000276
+951 - iteration 1 - selected 43: 5.962900125000033
+951 - iteration 2 - selected 43: 0.4435060829999884
+951 - iteration 3 - selected 43: 0.4609855420000031
+951 - iteration 4 - selected 43: 0.46302224999999453
+951 - iteration 5 - selected 43: 0.46701179100000445
+961 - model creation: 2.075852374999954
+961 - iteration 1 - selected 38: 6.1458639999999605
+961 - iteration 2 - selected 38: 0.44773091600006865
+961 - iteration 3 - selected 38: 0.46030979099998603
+961 - iteration 4 - selected 38: 0.45575170799997977
+961 - iteration 5 - selected 38: 0.45403858299994226
+971 - model creation: 2.0491455000000087
+971 - iteration 1 - selected 47: 6.2762164170000005
+971 - iteration 2 - selected 47: 0.4655107499999076
+971 - iteration 3 - selected 47: 0.46320954099996925
+971 - iteration 4 - selected 47: 0.4732973339999944
+971 - iteration 5 - selected 47: 0.46441249999998035
+981 - model creation: 2.107732542000008
+981 - iteration 1 - selected 52: 6.439832790999958
+981 - iteration 2 - selected 50: 0.5106169169998793
+981 - iteration 3 - selected 50: 0.4574489999999969
+981 - iteration 4 - selected 50: 0.4613806669999576
+981 - iteration 5 - selected 50: 0.4694089580000309
+991 - model creation: 2.0548467910000454
+991 - iteration 1 - selected 33: 6.405450083999995
+991 - iteration 2 - selected 33: 0.46706958300001133
+991 - iteration 3 - selected 33: 0.4567501250000987
+991 - iteration 4 - selected 33: 0.45364083300000857
+991 - iteration 5 - selected 33: 0.4552402089998395
+1001 - model creation: 2.03607887499993
+1001 - iteration 1 - selected 47: 6.425673417000098
+1001 - iteration 2 - selected 47: 0.45034850000001825
+1001 - iteration 3 - selected 47: 0.4682607080001162
+1001 - iteration 4 - selected 47: 0.46946075000005294
+1001 - iteration 5 - selected 47: 0.4655086669999946
+1011 - model creation: 2.118591209000215
+1011 - iteration 1 - selected 51: 6.008057167000061
+1011 - iteration 2 - selected 50: 0.5005587080001987
+1011 - iteration 3 - selected 50: 0.46619362499995987
+1011 - iteration 4 - selected 50: 0.4789337090001027
+1011 - iteration 5 - selected 50: 0.46019366699988495
+1021 - model creation: 2.0460127500000453
+1021 - iteration 1 - selected 48: 6.167873999999983
+1021 - iteration 2 - selected 48: 0.454619250000178
+1021 - iteration 3 - selected 48: 0.46248954100019546
+1021 - iteration 4 - selected 48: 0.465915958000096
+1021 - iteration 5 - selected 48: 0.46803945900001054
+1031 - model creation: 2.0170550000000276
+1031 - iteration 1 - selected 47: 6.2508333749999565
+1031 - iteration 2 - selected 47: 0.45283758299979127
+1031 - iteration 3 - selected 47: 0.4635822499999449
+1031 - iteration 4 - selected 47: 0.4674995829998352
+1031 - iteration 5 - selected 47: 0.462216749999925
+1041 - model creation: 2.0707751249999546
+1041 - iteration 1 - selected 30: 6.319749166999827
+1041 - iteration 2 - selected 30: 0.4675670419999278
+1041 - iteration 3 - selected 30: 0.4389364169999226
+1041 - iteration 4 - selected 30: 0.44085516599989205
+1041 - iteration 5 - selected 30: 0.45353612499980045
+1051 - model creation: 2.0323816669999815
+1051 - iteration 1 - selected 47: 6.661306583999931
+1051 - iteration 2 - selected 47: 0.47368249999999534
+1051 - iteration 3 - selected 47: 0.4542596249998496
+1051 - iteration 4 - selected 47: 0.46985162499981925
+1051 - iteration 5 - selected 47: 0.45812354200006666
+1061 - model creation: 2.03514691700002
+1061 - iteration 1 - selected 48: 6.151517625000224
+1061 - iteration 2 - selected 48: 0.4566210409998348
+1061 - iteration 3 - selected 48: 0.4618907910000871
+1061 - iteration 4 - selected 48: 0.4717135410000992
+1061 - iteration 5 - selected 48: 0.45829366699990715
+1071 - model creation: 2.100950417000149
+1071 - iteration 1 - selected 50: 6.142323749999832
+1071 - iteration 2 - selected 50: 0.4598065420000239
+1071 - iteration 3 - selected 50: 0.4557227079999393
+1071 - iteration 4 - selected 50: 0.46891774999994595
+1071 - iteration 5 - selected 50: 0.4671695419999651
